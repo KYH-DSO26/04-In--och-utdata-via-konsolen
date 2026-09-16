@@ -6,4 +6,5 @@
   <Project Path="05 Kvittoskrivaren/05 Kvittoskrivaren.csproj" />
   <Project Path="06 Säker sifferinmatning/06 Säker sifferinmatning.csproj" />
   <Project Path="07 Texttrimning och formatering/07 Texttrimning och formatering.csproj" />
+  <Project Path="08 Dynamisk titelbar/08 Dynamisk titelbar.csproj" />
 </Solution>
