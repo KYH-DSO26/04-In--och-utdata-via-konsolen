@@ -5,4 +5,5 @@
   <Project Path="04 Åldersverifiering för krogen/04 Åldersverifiering för krogen.csproj" />
   <Project Path="05 Kvittoskrivaren/05 Kvittoskrivaren.csproj" />
   <Project Path="06 Säker sifferinmatning/06 Säker sifferinmatning.csproj" />
+  <Project Path="07 Texttrimning och formatering/07 Texttrimning och formatering.csproj" />
 </Solution>
