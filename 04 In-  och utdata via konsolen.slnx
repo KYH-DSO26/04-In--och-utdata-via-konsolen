@@ -9,4 +9,6 @@
   <Project Path="08 Dynamisk titelbar/08 Dynamisk titelbar.csproj" />
   <Project Path="09 Bakgrundsväxlaren/09 Bakgrundsväxlaren.csproj" />
   <Project Path="10 Menysystem i konsolen/10 Menysystem i konsolen.csproj" />
+  <Project Path="11 Lösenordsmaskaren/11 Lösenordsmaskaren.csproj" />
+  <Project Path="12 Det kraschsäkra formuläret/12 Det kraschsäkra formuläret.csproj" />
 </Solution>
