@@ -2,4 +2,5 @@
   <Project Path="01 Hälsningsmaskinen/01 Hälsningsmaskinen.csproj" />
   <Project Path="02 Eko-kammaren/02 Eko-kammaren.csproj" />
   <Project Path="03 Tecken-speglingen/03 Tecken-speglingen.csproj" />
+  <Project Path="04 Åldersverifiering för krogen/04 Åldersverifiering för krogen.csproj" />
 </Solution>
