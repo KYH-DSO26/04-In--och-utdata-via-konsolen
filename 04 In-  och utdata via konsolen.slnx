@@ -8,4 +8,5 @@
   <Project Path="07 Texttrimning och formatering/07 Texttrimning och formatering.csproj" />
   <Project Path="08 Dynamisk titelbar/08 Dynamisk titelbar.csproj" />
   <Project Path="09 Bakgrundsväxlaren/09 Bakgrundsväxlaren.csproj" />
+  <Project Path="10 Menysystem i konsolen/10 Menysystem i konsolen.csproj" />
 </Solution>

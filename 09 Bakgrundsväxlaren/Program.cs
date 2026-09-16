@@ -4,7 +4,7 @@ Console.Clear();   // Rensa konsolfönstret
 
 Console.WriteLine("Nu kör vi med blå bakgrund och vit text!");
 Console.ResetColor();   // Återställ färger
-Console.BackgroundColor = ConsoleColor.Black;
+
 
 
 
